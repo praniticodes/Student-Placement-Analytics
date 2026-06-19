@@ -1,5 +1,5 @@
 # Student Placement Analytics Dashboard
-
+![Dashboard](dashboard.png.)
 ## Overview
 
 This project analyzes student placement data using SQL and Power BI to identify trends in placement outcomes, salary distribution, work experience impact, and academic performance.
